@@ -1,3 +1,6 @@
+# WARNING!!!
+It is not ready yet! Don't download it!
+
 # Installation
 To install this file, download km.bat and run this command in
 the same directory of the file:
